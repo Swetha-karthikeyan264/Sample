@@ -1,1 +1,6 @@
-hi my name swetha
+<<<<<<< HEAD
+hi my name Swetha
+=======
+
+>>>>>>> 163b43c428a21e6e3df666d5af57069fc67ed797
+Their remote text
